@@ -1,0 +1,80 @@
+run_time route_length status explorated_area unexplorated_area
+499 1496 success 767 0
+1000 3000 block 193 574
+670 2009 success 767 0
+1000 2999 block 758 10
+1000 2998 block 195 572
+1000 3000 block 33 735
+584 1752 success 767 0
+608 1823 success 767 0
+708 2124 success 767 0
+491 1473 success 767 0
+582 1746 success 767 0
+348 1044 success 767 0
+520 1559 success 767 0
+456 1367 success 767 0
+1000 2999 block 195 572
+728 2184 success 767 0
+523 1569 success 767 0
+558 1672 success 767 0
+1000 3000 block 562 205
+550 1649 success 767 0
+482 1446 success 767 0
+1000 2999 block 196 571
+1000 3000 block 197 571
+562 1685 success 767 0
+1000 2999 block 266 501
+521 1563 success 767 0
+438 1314 success 767 0
+1000 3000 block 758 9
+479 1436 success 767 0
+444 1331 success 767 0
+1000 3000 block 193 575
+1000 3000 block 760 7
+633 1898 success 767 0
+441 1322 success 768 0
+738 2214 success 768 0
+1000 3000 block 762 5
+1000 3000 block 206 561
+1000 2999 block 194 573
+596 1786 success 767 0
+636 1907 success 768 0
+493 1478 success 767 0
+436 1308 success 767 0
+1000 3000 block 760 7
+1000 2999 block 186 581
+583 1747 success 767 0
+1000 2999 block 205 562
+475 1425 success 767 0
+1000 2999 block 763 4
+1000 3000 block 194 573
+1000 3000 block 189 579
+Success statistics information
+MEAN
+run_time              544.206897
+route_length         1631.965517
+explorated_area       767.103448
+unexplorated_area       0.000000
+dtype: float64
+STANDARD
+run_time              95.253189
+route_length         285.713453
+explorated_area        0.309934
+unexplorated_area      0.000000
+dtype: float64
+Block statistics information
+MEAN
+run_time             1000.000000
+route_length         2999.523810
+explorated_area       369.761905
+unexplorated_area     397.476190
+dtype: float64
+STANDARD
+run_time               0.000000
+route_length           0.601585
+explorated_area      268.463388
+unexplorated_area    268.552903
+dtype: float64
+Total run 50 rounds
+Success 29 rounds 57.99999999999999%
+Fail 21 rounds 42.0%

@@ -1,0 +1,80 @@
+run_time route_length status explorated_area unexplorated_area
+1000 19997 block 190 570
+402 8039 success 760 0
+1000 19994 block 461 302
+648 12957 success 761 0
+1000 19997 block 755 4
+309 6177 success 756 0
+489 9776 success 763 0
+323 6457 success 758 0
+1000 19998 block 610 154
+958 19158 success 765 0
+514 10279 success 757 0
+818 16353 success 758 0
+1000 19996 block 481 283
+464 9278 success 763 0
+987 19737 success 762 0
+1000 19997 block 191 570
+1000 19998 block 188 570
+1000 19998 block 376 385
+656 13119 success 758 0
+350 6998 success 760 0
+468 9357 success 763 0
+764 15277 success 759 0
+540 10799 success 764 0
+1000 19997 block 189 570
+281 5616 success 761 0
+460 9193 success 758 0
+321 6416 success 759 0
+1000 19996 block 749 7
+832 16635 success 755 0
+1000 19997 block 187 572
+1000 19997 block 385 375
+1000 19994 block 753 2
+1000 19994 block 378 383
+849 16977 success 759 0
+482 9636 success 759 0
+1000 19996 block 291 475
+234 4675 success 756 0
+1000 19997 block 289 476
+1000 19998 block 193 570
+244 4876 success 760 0
+1000 19997 block 285 479
+1000 19997 block 327 435
+566 11315 success 761 0
+576 11517 success 758 0
+514 10275 success 759 0
+277 5536 success 759 0
+1000 19995 block 634 126
+546 10915 success 761 0
+220 4395 success 758 0
+1000 19999 block 762 1
+Success statistics information
+MEAN
+run_time               520.413793
+route_length         10404.758621
+explorated_area        759.655172
+unexplorated_area        0.000000
+dtype: float64
+STANDARD
+run_time              219.323231
+route_length         4386.590668
+explorated_area         2.453509
+unexplorated_area       0.000000
+dtype: float64
+Block statistics information
+MEAN
+run_time              1000.000000
+route_length         19996.619048
+explorated_area        413.047619
+unexplorated_area      348.047619
+dtype: float64
+STANDARD
+run_time               0.000000
+route_length           1.395571
+explorated_area      214.306667
+unexplorated_area    215.077306
+dtype: float64
+Total run 50 rounds
+Success 29 rounds 57.99999999999999%
+Fail 21 rounds 42.0%

@@ -1,0 +1,80 @@
+run_time route_length status explorated_area unexplorated_area
+180 3597 success 764 0
+179 3572 success 762 0
+165 3297 success 756 0
+170 3396 success 755 0
+153 3057 success 761 0
+151 3018 success 763 0
+153 3054 success 759 0
+188 3757 success 761 0
+148 2953 success 759 0
+155 3097 success 757 0
+144 2877 success 759 0
+141 2819 success 757 0
+157 3135 success 761 0
+159 3175 success 758 0
+180 3596 success 762 0
+189 3774 success 764 0
+151 3014 success 760 0
+173 3457 success 764 0
+163 3257 success 759 0
+170 3398 success 763 0
+173 3456 success 763 0
+141 2815 success 756 0
+162 3234 success 757 0
+166 3315 success 760 0
+155 3097 success 760 0
+177 3537 success 761 0
+163 3258 success 763 0
+143 2857 success 760 0
+166 3318 success 755 0
+160 3197 success 758 0
+166 3315 success 761 0
+177 3538 success 762 0
+153 3056 success 761 0
+158 3158 success 763 0
+139 2775 success 760 0
+162 3237 success 758 0
+150 2997 success 761 0
+169 3378 success 763 0
+145 2896 success 758 0
+156 3118 success 758 0
+164 3275 success 758 0
+145 2893 success 758 0
+162 3235 success 761 0
+144 2875 success 755 0
+160 3195 success 757 0
+169 3373 success 760 0
+157 3133 success 757 0
+155 3096 success 759 0
+136 2713 success 755 0
+141 2818 success 760 0
+Success statistics information
+MEAN
+run_time              159.66
+route_length         3189.16
+explorated_area       759.64
+unexplorated_area       0.00
+dtype: float64
+STANDARD
+run_time              12.979749
+route_length         259.700248
+explorated_area        2.577453
+unexplorated_area      0.000000
+dtype: float64
+Block statistics information
+MEAN
+run_time            NaN
+route_length        NaN
+explorated_area     NaN
+unexplorated_area   NaN
+dtype: float64
+STANDARD
+run_time            NaN
+route_length        NaN
+explorated_area     NaN
+unexplorated_area   NaN
+dtype: float64
+Total run 50 rounds
+Success 50 rounds 100.0%
+Fail 0 rounds 0.0%

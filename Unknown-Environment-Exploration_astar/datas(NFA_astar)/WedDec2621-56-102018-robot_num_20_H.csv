@@ -1,0 +1,80 @@
+run_time route_length status explorated_area unexplorated_area
+776 15512 success 762 0
+1000 19992 block 123 646
+392 7831 success 765 0
+1000 19987 block 757 10
+361 7214 success 760 0
+268 5349 success 761 0
+515 10292 success 760 0
+332 6628 success 764 0
+1000 19994 block 759 4
+1000 19992 block 758 11
+1000 19992 block 758 11
+1000 19992 block 760 9
+287 5736 success 760 0
+546 10910 success 754 0
+1000 19991 block 756 11
+1000 19988 block 758 11
+1000 19990 block 758 9
+437 8730 success 759 0
+550 10993 success 760 0
+313 6252 success 762 0
+388 7752 success 759 0
+1000 19992 block 758 11
+1000 19992 block 758 11
+277 5528 success 759 0
+503 10055 success 760 0
+275 5488 success 756 0
+284 5676 success 758 0
+344 6873 success 762 0
+290 5794 success 759 0
+352 7028 success 760 0
+315 6292 success 759 0
+1000 19989 block 761 9
+381 7610 success 760 0
+1000 19994 block 758 11
+1000 19992 block 757 12
+311 6214 success 757 0
+326 6512 success 759 0
+367 7331 success 763 0
+351 7009 success 756 0
+333 6654 success 761 0
+415 8290 success 761 0
+404 8070 success 760 0
+326 6514 success 763 0
+251 5013 success 761 0
+298 5948 success 758 0
+628 12551 success 760 0
+320 6392 success 756 0
+318 6352 success 765 0
+360 7192 success 760 0
+527 10527 success 764 0
+Success statistics information
+MEAN
+run_time              381.138889
+route_length         7614.222222
+explorated_area       760.083333
+unexplorated_area       0.000000
+dtype: float64
+STANDARD
+run_time              113.838771
+route_length         2276.631548
+explorated_area         2.522754
+unexplorated_area       0.000000
+dtype: float64
+Block statistics information
+MEAN
+run_time              1000.000000
+route_length         19991.214286
+explorated_area        712.785714
+unexplorated_area       55.428571
+dtype: float64
+STANDARD
+run_time               0.000000
+route_length           2.044827
+explorated_area      169.756467
+unexplorated_area    169.989463
+dtype: float64
+Total run 50 rounds
+Success 36 rounds 72.0%
+Fail 14 rounds 28.000000000000004%

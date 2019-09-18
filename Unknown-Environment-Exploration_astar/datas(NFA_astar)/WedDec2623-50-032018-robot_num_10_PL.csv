@@ -1,0 +1,80 @@
+run_time route_length status explorated_area unexplorated_area
+860 8597 success 765 0
+1000 9998 block 702 64
+1000 9999 block 291 475
+1000 9995 block 326 436
+740 7399 success 766 0
+1000 9996 block 319 441
+1000 9999 block 188 575
+1000 10000 block 201 563
+619 6188 success 765 0
+1000 9999 block 317 446
+908 9079 success 766 0
+553 5526 success 763 0
+663 6629 success 766 0
+704 7035 success 761 0
+1000 10000 block 194 570
+1000 9999 block 325 438
+938 9377 success 764 0
+432 4319 success 763 0
+1000 9998 block 281 485
+1000 9996 block 755 7
+256 2558 success 763 0
+434 4340 success 763 0
+673 6727 success 762 0
+925 9247 success 763 0
+1000 9998 block 189 573
+1000 9999 block 556 207
+329 3287 success 763 0
+627 6268 success 764 0
+589 5889 success 766 0
+592 5918 success 761 0
+456 4557 success 762 0
+456 4558 success 766 0
+1000 9998 block 380 384
+1000 9998 block 286 479
+574 5739 success 762 0
+629 6287 success 764 0
+1000 9999 block 386 378
+1000 9999 block 201 563
+1000 9999 block 276 490
+265 2648 success 762 0
+636 6358 success 763 0
+1000 9997 block 197 565
+1000 9997 block 362 402
+783 7827 success 763 0
+352 3517 success 763 0
+442 4420 success 763 0
+361 3609 success 763 0
+534 5338 success 761 0
+554 5539 success 763 0
+436 4359 success 762 0
+Success statistics information
+MEAN
+run_time              577.333333
+route_length         5771.300000
+explorated_area       763.366667
+unexplorated_area       0.000000
+dtype: float64
+STANDARD
+run_time              187.968327
+route_length         1879.394366
+explorated_area         1.542129
+unexplorated_area       0.000000
+dtype: float64
+Block statistics information
+MEAN
+run_time             1000.00
+route_length         9998.15
+explorated_area       336.60
+unexplorated_area     427.05
+dtype: float64
+STANDARD
+run_time               0.000000
+route_length           1.348488
+explorated_area      161.325235
+unexplorated_area    161.285779
+dtype: float64
+Total run 50 rounds
+Success 30 rounds 60.0%
+Fail 20 rounds 40.0%
